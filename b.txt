@@ -1,2 +1,4 @@
 add
 commit=>真的做出一個版本
+
+git status 是察看狀態
